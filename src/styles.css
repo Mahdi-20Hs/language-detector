@@ -52,6 +52,12 @@ button:hover{
   color: rgb(0,0,40);
   font-weight: bold;
 }
+.err{
+  background-color: red;
+  color: white;
+  padding: 2px 4px;
+  display: none;
+}
 #textarea{
   max-width: 100%;
   padding: 10px;
